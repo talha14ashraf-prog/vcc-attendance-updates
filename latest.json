@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "version": "1.0.4",
+  "zip": "VCC-Update-v1.0.4.zip",
+  "checksum": "VCC-Update-v1.0.4.zip.sha256",
+  "zipSize": 21884127,
+  "checksumSize": 89,
+  "publishedAt": "2026-11-21T13:12:25.6816010Z",
+  "sourceCommit": "48e8680c3d6e2133da6aaae0278326d60ba4a3da",
+  "releaseNotes": "Verified VCC application update."
+}
